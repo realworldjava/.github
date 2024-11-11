@@ -2,6 +2,11 @@ This GitHub organization goes with the book [Real-World Java: Helping You Naviga
 
 <img src="https://a.media-amazon.com/images/I/71-iUgcY0CL._AC_UY436_QL65_.jpg" alt="Real World Java book cover]" width="100" align="right">
 
+Sample links to buy:
+* [Amazon US](https://www.amazon.com/Real-World-Java-Helping-Navigate-Ecosystem/dp/1394275722)
+* [Barnes and Noble](https://www.barnesandnoble.com/w/real-world-java-jeanne-boyarsky/1145016898)
+* [Wiley](https://www.wiley.com/en-kr/Real-World+Java%3A+Helping+You+Navigate+the+Java+Ecosystem-p-9781394275724)
+
 
 The organization contains a repository for each chapter of the book. Each chapter repo contains 
 * the sample code for the book.
